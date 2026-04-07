@@ -30,3 +30,6 @@ You can also run:
 ```bash
 java -cp src TestAnimal
 ```
+
+## UML Diagram
+<img width="1292" height="589" alt="image" src="https://github.com/user-attachments/assets/20c7827e-b40e-481d-acae-ed7595f61e7b" />
