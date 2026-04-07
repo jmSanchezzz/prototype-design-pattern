@@ -1,4 +1,4 @@
-public class TestAnimal2 {
+public class TestAnimal {
     public static void main(String[] args) {
         AnimalRegistry registry = new AnimalRegistry();
 
